@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## Date:
+## Date:7.10.2025
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -31,10 +31,88 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
+cover.html
+html>
+    <head>
+        <title>MyBook
+        </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="page">
+            
+            <div class="insights">
+                SEC Insights
+            </div>
+            <div class="hr">
+                <hr>
+            </div>
+            <div class="title">
+                DJANGO FOR BEGINNERS
+            </div>
+            <div class="subtitle">
+              Why django for web development?<br>
+              Top Seller of 2025
+            </div>
+            <div class="edit">
+             UPDATED EDITION
+             </div>
+             <br><hr>
+              <div class="name">
+                A.AIRA DARIO
+                </div>
+                <div class="bottom">
+                    SEC
+                </div>
+            <div class="pic">
+            </div> 
+        </div>
+    </body>
+</html>
 
+style.css
+html>
+    <head>
+        <title>MyBook
+        </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="page">
+            
+            <div class="insights">
+                SEC Insights
+            </div>
+            <div class="hr">
+                <hr>
+            </div>
+            <div class="title">
+                DJANGO FOR BEGINNERS
+            </div>
+            <div class="subtitle">
+              Why django for web development?<br>
+              Top Seller of 2025
+            </div>
+            <div class="edit">
+             UPDATED EDITION
+             </div>
+             <br><hr>
+              <div class="name">
+                A.AIRA DARIO
+                </div>
+                <div class="bottom">
+                    SEC
+                </div>
+            <div class="pic">
+            </div> 
+        </div>
+    </body>
+</html>
+```
 
 ## OUTPUT:
-
+![alt text](<Screenshot 2025-10-07 142214.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.

@@ -33,7 +33,8 @@ Publish the website in the LocalHost.
 ## PROGRAM:
 ```
 cover.html
-html>
+
+<html>
     <head>
         <title>MyBook
         </title>
@@ -72,7 +73,8 @@ html>
 </html>
 
 style.css
-html>
+
+<html>
     <head>
         <title>MyBook
         </title>
